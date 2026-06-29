@@ -1,0 +1,11 @@
+question_id,skill_id,question_text,answer,answer_type,difficulty,misconception_rules
+q001,mean_average,"A student scores 80, 85, 90, and 95 on four quizzes. What is the mean score?",87.5,numeric,1,{}
+q002,fractions,Compute 1/2 + 1/4. Give your answer as a decimal.,0.75,numeric,1,{}
+q003,linear_equations,Solve for x: 2x + 3 = 11.,4,numeric,1,{}
+q004,probability,A bag has 3 red balls and 2 blue balls. What is the probability of drawing a red ball?,0.6,numeric,1,{}
+q005,percentages,What is 20% of 150?,30,numeric,1,{}
+q006,mean_average,"The numbers are 10, 20, 30, 40, and 50. What is their mean?",30,numeric,1,{}
+q007,linear_equations,Solve for x: 5x - 7 = 18.,5,numeric,2,{}
+q008,probability,A fair six-sided die is rolled. What is the probability of rolling an even number?,0.5,numeric,1,{}
+q009,fractions,Compute 2/3 - 1/6. Give your answer as a decimal rounded to two decimals.,0.50,numeric,2,{}
+q010,percentages,A price increases from 80 to 100. What is the percent increase?,25,numeric,2,{}
