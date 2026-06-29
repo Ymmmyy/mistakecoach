@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "n_rows": 15867850,
+    "n_students": 118971,
+    "n_questions": 27613,
+    "n_correct": 10202239,
+    "overall_accuracy": 0.6429503051768198,
+    "student_attempt_median": 88.0,
+    "student_attempt_q1": 57.0,
+    "student_attempt_q3": 159.0,
+    "question_attempt_median": 281.0,
+    "question_attempt_q1": 109.0,
+    "question_attempt_q3": 850.0,
+    "question_accuracy_median": 0.6847826086956522,
+    "question_accuracy_q1": 0.557556773688332,
+    "question_accuracy_q3": 0.7970149253731343,
+    "questions_below_30_accuracy_share": 0.01155252960562054,
+    "questions_above_70_accuracy_share": 0.4651794444645638
+  },
+  "answer_metadata_summary": {
+    "n_rows": 19834820,
+    "date_min": "2018-09-01 00:53:00.000",
+    "date_max": "2020-05-02 11:14:00.000"
+  }
+}
